@@ -48,18 +48,12 @@ Computer Science Student at NYIT | Full-Stack & AI Developer
 
 ### Featured Projects
 
-* **[Autonomous Code Review & Testing Agent](#)** - Generated an agentic system using `LangGraph` and `tree-sitter` to autonomously generate test suites, execute them in Docker sandboxes, and open PRs with zero human input.
-* **[CS Career Navigator](#)** - An intelligent assessment tool built with `Python`, `FastAPI`, and the `Gemini API` that provides personalized career mentorship paths for CS students.
-* **[AI-Powered Malware Detection App](#)** - A full-stack mobile app built in `React Native` using on-device `TensorFlow Lite` neural networks for fully offline Android APK scanning.
-* **[Salon Booking Platform](#)** - A production-ready booking web app streamlining appointment flows for a real salon business using `TypeScript`, `Supabase`, and `Node.js`.
+* **[Autonomous Code Review & Testing Agent](https://github.com/shubhampuri264-cell/Autonomous-Code-Review-Testing-Agent.)** - Generated an agentic system using `LangGraph` and `tree-sitter` to generate test suites autonomously, execute them in Docker sandboxes, and open PRs with zero human input.
+* **[CS Career Navigator](https://github.com/shubhampuri264-cell/CareerNavigator)** - An intelligent assessment tool built with `Python`, `FastAPI`, and the `Gemini API` that provides personalized career mentorship paths for CS students.
+* **[AI-Powered Malware Detection App](https://github.com/shubhampuri264-cell/Malware-Detection-App)** - A full-stack mobile app built in `React Native` using on-device `TensorFlow Lite` neural networks for fully offline Android APK scanning.
+* **[Salon Booking Platform](https://github.com/shubhampuri264-cell/SalonWebsite)** - A production-ready booking web app streamlining appointment flows for a real salon business using `TypeScript`, `Supabase`, and `Node.js`.
 
 *(Note: Replace the `#` links above with the actual URLs to your repositories)*
 
 ---
-
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhampuri264-cell&show_icons=true&theme=algolia&hide_border=true" alt="Shubham's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhampuri264-cell&layout=compact&theme=algolia&hide_border=true" alt="Shubham's Top Languages" />
-</div>
+Personal Website: porfolio-mauve-six-97.vercel.app
