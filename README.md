@@ -53,7 +53,5 @@ Computer Science Student at NYIT | Full-Stack & AI Developer
 * **[AI-Powered Malware Detection App](https://github.com/shubhampuri264-cell/Malware-Detection-App)** - A full-stack mobile app built in `React Native` using on-device `TensorFlow Lite` neural networks for fully offline Android APK scanning.
 * **[Salon Booking Platform](https://github.com/shubhampuri264-cell/SalonWebsite)** - A production-ready booking web app streamlining appointment flows for a real salon business using `TypeScript`, `Supabase`, and `Node.js`.
 
-*(Note: Replace the `#` links above with the actual URLs to your repositories)*
-
 ---
 Personal Website: porfolio-mauve-six-97.vercel.app
