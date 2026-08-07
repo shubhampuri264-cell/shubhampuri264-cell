@@ -9,7 +9,7 @@ Computer Science Student at NYIT | Full-Stack & AI Developer
 ---
 
 ### About Me
-- Pursuing a **B.S. in Computer Science** at NYIT (Anticipated May 2026).
+- **B.S. in Computer Science** From NYIT.
 - Working as a **Tech Mentor** at Queens Library and formerly an **AI Quality Analyst** at Outlier.
 - Passionate about integrating AI/ML models into user-friendly applications.
 - Ask me about: **LangGraph, React Native, Supabase, or Prompt Engineering.**
